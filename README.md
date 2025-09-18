@@ -46,16 +46,14 @@ Once downloaded, place `metadata.csv` in the **root of the repository folder** t
 
 > **Tip:** Add `metadata.csv` to your `.gitignore` file to prevent pushing the large dataset to GitHub:
 
-echo metadata.csv >> .gitignore
 
 ## 🖼 Screenshots
 *Add your Streamlit screenshots here. For example:*
 
 ```markdown
-![Example Screenshot](screenshots/example.png)
-```
+![Example Screenshot](Screenshots/SL1.png) 
 
-Create a `screenshots` folder in the repo and add your images there. Use relative paths in Markdown.
+```
 
 ## 📌 Features
 - Data exploration using Pandas and Seaborn.

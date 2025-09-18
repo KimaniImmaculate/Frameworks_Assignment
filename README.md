@@ -49,11 +49,13 @@ Once downloaded, place `metadata.csv` in the **root of the repository folder** t
 
 > **Tip:** Add `metadata.csv` to your `.gitignore` file to prevent pushing the large dataset to GitHub:
 
-
 ## 🖼 Screenshots
 
-![Streamlit Screenshot 1](screenshots/SL1.png)
-![Streamlit Screenshot 2](screenshots/SL2.png)
+<p float="left">
+  <img src="screenshots/SL1.png" width="300" />
+  <img src="screenshots/SL2.png" width="300" />
+</p>
+
 
 
 ## 📌 Features

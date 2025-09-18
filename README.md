@@ -57,7 +57,6 @@ Once downloaded, place `metadata.csv` in the **root of the repository folder** t
 </p>
 
 
-
 ## 📌 Features
 - Data exploration using Pandas and Seaborn
 - Interactive visualizations with Streamlit.

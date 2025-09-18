@@ -6,6 +6,9 @@ A **data analysis project** using the **CORD dataset**, combining data explorati
 
 - **analysis.ipynb** → Jupyter notebook with main data analysis and visualizations.  
 - **app.py** → Streamlit app for interactive data exploration.  
+- **.gitignore** → Specifies intentionally untracked files to ignore (e.g., metadata.csv).  
+- **screenshots/** → Folder containing images/screenshots of the Streamlit app.
+ 
 
 > ⚠️ **Note**: The `metadata.csv` dataset is **not included** due to its large size (~1.5 GB).
 
@@ -48,10 +51,10 @@ Once downloaded, place `metadata.csv` in the **root of the repository folder** t
 
 
 ## 🖼 Screenshots
-*Add your Streamlit screenshots here. For example:*
 
 ```markdown
-![Example Screenshot](Screenshots/SL1.png) 
+![Example Screenshot](screenshots/SL1.png)
+![Example Screenshot](screenshots/SL2.png)
 
 ```
 

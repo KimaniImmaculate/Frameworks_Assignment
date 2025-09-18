@@ -52,7 +52,7 @@ Once downloaded, place `metadata.csv` in the **root of the repository folder** t
 ## 🖼 Screenshots
 
 <p float="left">
-  <img src="PYTHON FRAMEWORKS_ASSIGNMENT/screenshots/SL1.png" width="300" />
+  <img src="FRAMEWORKS_ASSIGNMENT/screenshots/SL1.png" width="300" />
   <img src="PYTHON FRAMEWORKS_ASSIGNMENT/screenshots/SL2.png" width="300" />
 </p>
 

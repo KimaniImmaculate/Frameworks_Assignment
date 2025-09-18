@@ -51,10 +51,8 @@ Once downloaded, place `metadata.csv` in the **root of the repository folder** t
 
 ## 🖼 Screenshots
 
-<p float="left">
-  <img src="assets/screenshots/SL1.png" width="300" />
-  <img src="assets/screenshots/SL2.png" width="300" />
-</p>
+![Example Screenshot 1](assets/screenshots/SL1.png)
+![Example Screenshot 2](assets/screenshots/SL2.png)
 
 
 ## 📌 Features

@@ -50,13 +50,12 @@ Once downloaded, place `metadata.csv` in the **root of the repository folder** t
 > **Tip:** Add `metadata.csv` to your `.gitignore` file to prevent pushing the large dataset to GitHub:
 
 
-## 🖼 Screenshots
+## 🖼 Screenshot
 
-```markdown
 ![Example Screenshot](screenshots/SL1.png)
 ![Example Screenshot](screenshots/SL2.png)
 
-```
+
 
 ## 📌 Features
 - Data exploration using Pandas and Seaborn.
